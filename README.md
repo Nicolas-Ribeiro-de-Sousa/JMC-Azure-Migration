@@ -23,7 +23,7 @@ Management Room - Main server
 - HP desktop: i7-10700; 16GB RAM; 512GB SSD;
 - OS: Windows server 2022 standard 21H2 (64-bit)
 - ERP: Secin/W&W system
-- Database:Cachesys (Intersystems)
+- Database: Cachesys (Intersystems)
 - IP: 192.168.100.3
 - Backup: None - all data is saved on the desktop computer
 
@@ -48,6 +48,7 @@ Both PC's are connected to the switch but are not connected to the server. They 
 
 Warehouse
 - PC-E: i5-10500; 8GB RAM; 240GB SDD; win 11
+
   No IP: Faulty cable
 
 
