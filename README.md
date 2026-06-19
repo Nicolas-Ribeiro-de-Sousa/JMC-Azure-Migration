@@ -17,7 +17,7 @@ Network
 - ISP: TV Cabo Mozambique
 - Router: Huawei Echolife HG8247H (ISP issued ONT)
 - Default gateway: 192.168.100.1
-- Subnet: 192.168.100.0/24; 255.255.255.255
+- Subnet: 192.168.100.0/24; 255.255.255.0
 
 Management Room - Main server
 - HP desktop: i7-10700; 16GB RAM; 512GB SSD;
@@ -29,19 +29,19 @@ Management Room - Main server
 
 Front Store - Sales
 - PC-A: i7-8700; 8GB RAM; 512GB SSD; Win 11;
-  IP: 192.168.100.7 | 255.255.255.255
+  IP: 192.168.100.7 | 255.255.255.0
 - PC-B: i5-10500; 8GB RAM; 512GB SSD; win 11;
-  IP: 192.168.100.5 | 255.255.255.255
+  IP: 192.168.100.5 | 255.255.255.0
 - Email: Both sales email
 - Both are connected to the server by an fixed IP
 
 Administration Room
 - PC-C (admin): i5-10500; 8GB RAM; 240GB SDD; win 11
-  IP: 192.168.100.6 | 255.255.255.255
+  IP: 192.168.100.6 | 255.255.255.0
   Email: Administration
   
 - PC-D (HR): i5-10500; 8GB RAM; 240GB SDD; win 11
-  IP: 192.168.100.20 | 255.255.255.255
+  IP: 192.168.100.20 | 255.255.255.0
   Email: HR
   
 Both PC's are connected to the switch but are not connected to the server. They operate independently
