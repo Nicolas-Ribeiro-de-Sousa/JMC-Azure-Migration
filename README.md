@@ -34,6 +34,8 @@ Front Store - Sales
   IP: 192.168.100.5 | 255.255.255.0
 - Email: Both sales email
 - Both are connected to the server by an fixed IP
+- B&W printer
+  IP: 192.168.100.10
 
 Administration Room
 - PC-C (admin): i5-10500; 8GB RAM; 240GB SDD; win 11
@@ -43,13 +45,24 @@ Administration Room
 - PC-D (HR): i5-10500; 8GB RAM; 240GB SDD; win 11
   IP: 192.168.100.20 | 255.255.255.0
   Email: HR
+
+- Colour Printer
+  Ip: 192.168.100.11
+
+- Laptop (Coordinator)
+  Wireless: DHCP / Wi-Fi
+
+- Acess Point0
+  SSID: Admin_WiFi / WPA2
+  IP: 192.168.100.15
   
-Both PC's are connected to the switch but are not connected to the server. They operate independently
+PC-C and PC-D are connected to the switch but have no connection to the server. They operate independently.  
+The coordinator laptop connects wirelessly via Access Point0
 
 Warehouse
 - PC-E: i5-10500; 8GB RAM; 240GB SDD; win 11
 
-  No IP: Faulty cable
+  Offline due to a physical cable fault of unknown duration. Inventory is not tracked in real time
 
 
 
